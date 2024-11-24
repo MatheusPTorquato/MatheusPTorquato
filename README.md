@@ -15,13 +15,32 @@
 
 
 ## Languages and Tools  
-<div align="center">  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>  
+
+### Mobile  
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" />
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" />
+  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" />
+</div>
+
+### OS
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img align="center" alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
+  <img align="center" alt="MacOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
+  <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+</div>
+
+### Back-end  
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
+</div>
+
+### Database
+<div style="display: inline_block"><br/>
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+</div>
+  
 
 <br/>  
 
